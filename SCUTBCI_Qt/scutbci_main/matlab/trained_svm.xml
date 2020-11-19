@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trained>
+   <fs>250</fs>
+   <dfs>5</dfs>
+   <numChars>40</numChars>
+   <numChannels>23</numChannels>
+   <channelSelected>8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</channelSelected>
+   <timeStart>25</timeStart>
+   <timeStop>125</timeStop>
+   <freqStart>0.5</freqStart>
+   <freqStop>20</freqStop>
+   <coefA>1</coefA>
+   <coefB>-0.096455 0.086924 0.08009 0.083217 0.088119 0.090243 0.088119 0.083217 0.08009 0.086924 -0.096455</coefB>
+   <classifier>svm</classifier>
+   <modelfile>trained_svm.model</modelfile>
+</trained>

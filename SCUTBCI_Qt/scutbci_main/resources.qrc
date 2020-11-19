@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/scutbci.png</file>
+        <file>resources/netreader.png</file>
+        <file>resources/start.png</file>
+        <file>resources/stop.png</file>
+        <file>resources/netactuator.png</file>
+        <file>resources/netmarker.png</file>
+        <file>resources/stimseq.png</file>
+        <file>resources/netpresenter.png</file>
+    </qresource>
+</RCC>
